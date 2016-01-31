@@ -1,0 +1,22 @@
+{ "_id" : { "$oid" : "537fd50d8cc050ec0a8b4568" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "de", "qtd_cartas" : 1 }
+{ "_id" : { "$oid" : "537fd50e8cc050f60a8b4569" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "pt", "qtd_cartas" : 2 }
+{ "_id" : { "$oid" : "537fd51e8cc050ed0a8b456c" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "fr", "qtd_cartas" : 5 }
+{ "_id" : { "$oid" : "537fd5228cc050ef0a8b456c" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "es", "qtd_cartas" : 5 }
+{ "_id" : { "$oid" : "537fd5258cc050ec0a8b456e" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "jp", "qtd_cartas" : 5 }
+{ "_id" : { "$oid" : "537fd5298cc050ee0a8b456d" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "it", "qtd_cartas" : 6 }
+{ "_id" : { "$oid" : "537fd6958cc050eb0a8b45bc" }, "nome" : "Media Inserts", "sigla" : "mbp", "idioma" : "en", "qtd_cartas" : 85 }
+{ "_id" : { "$oid" : "538244418cc05058312f10c6" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "en", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538244f38cc05059312f10c6" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "de", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538245a58cc050912b2f10c6" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "fr", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538246588cc05059312f11c0" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "ko", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538247878cc05062312f10c6" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "pt", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538248af8cc05059312f12ba" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "cn", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "538249798cc050912b2f11c0" }, "nome" : "テーロス", "sigla" : "ths", "idioma" : "jp", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "53824a148cc0503a102f10c6" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "es", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "53824b3d8cc05058312f11c0" }, "nome" : "Theros", "sigla" : "ths", "idioma" : "ru", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382c2628cc05095652f10c6" }, "nome" : "Coleção Básica Magic 2014", "sigla" : "m14", "idioma" : "pt", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382c3c98cc05083652f10c6" }, "nome" : "Hauptset Magic 2014", "sigla" : "m14", "idioma" : "de", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382c5068cc050a9662f10c6" }, "nome" : "Magic 2014 Core Set", "sigla" : "m14", "idioma" : "en", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382c6788cc0500a662f10c6" }, "nome" : "Édition de base Magic 2014", "sigla" : "m14", "idioma" : "fr", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382d7038cc050bf662f10c6" }, "nome" : "Set Base Magic 2014", "sigla" : "m14", "idioma" : "it", "qtd_cartas" : 249 }
+{ "_id" : { "$oid" : "5382d8ab8cc0508e652f10c6" }, "nome" : "Colección básica Magic 2014", "sigla" : "m14", "idioma" : "es", "qtd_cartas" : 249 }

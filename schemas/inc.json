@@ -1,0 +1,5 @@
+{ "_id" : { "$oid" : "5387f5a08cc050102e8b456e" }, "table" : "combos", "next_id" : 1 }
+{ "_id" : { "$oid" : "5387f5a08cc050102e8b456f" }, "table" : "mensagens", "next_id" : 74 }
+{ "_id" : { "$oid" : "5387f5a08cc050102e8b4570" }, "table" : "colecao", "next_id" : 13 }
+{ "_id" : { "$oid" : "5387f5a08cc050102e8b4571" }, "table" : "usuario", "next_id" : 1 }
+{ "_id" : { "$oid" : "5387f5a08cc050102e8b4572" }, "table" : "carta_colecao", "next_id" : 25 }

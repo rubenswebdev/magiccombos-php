@@ -1,0 +1,45 @@
+{
+	"nome": "Rubens",
+	"email": "rubens@mgc.com.br",
+	"senha": "$1$y.Jr/hDG$Tcp4fsWfhaMVkFGzakobY.",
+	"documento": "08597542942",
+	"data": "2014-05-01",
+	"login": "admin",
+	"sexo": "M",
+	"ativo": 1,
+	"admin": 1,
+	"id": 4,
+
+	"amigos":[
+		{
+			"id_usuario":2,
+			"nome": "Admin",
+			"sobrenome": "Fernandes",
+			"email":"drakedrk@hotmail.com",
+			"url_perfil":"usuario/perfil/drake"
+		}
+	],
+
+	"mensagens":[
+	],
+
+	"colecoes":[{
+		"id":1,
+		"nome":"Colecão de Teste do Rubens",
+		"ativa": 156,
+		"tipo":"Box",
+		"cartas":[
+			
+		]
+	},
+	{
+		"id":2,
+		"nome":"Colecão de Teste2 do Rubens",
+		"ativa": 897,
+
+		"tipo":"Box",
+		"cartas":[
+
+		]
+	}]
+}
